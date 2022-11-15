@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'Full lecture notes for 14.381 Statistical Method in Economics. '
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,7 +32,7 @@ Lecture
 {{< tdopen >}}
 
 
-[Distributions and Normal Random Variables (PDF)]({{< baseurl >}}/resources/mit14_381f18_lec1)
+{{% resource_link f09db96d-f409-f70d-2c87-4cd5402d19e5 "Distributions and Normal Random Variables (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -48,7 +49,7 @@ Lecture
 {{< tdopen >}}
 
 
-[Limit Theorems (PDF)]({{< baseurl >}}/resources/mit14_381f18_lec2)
+{{% resource_link 9684a62e-f140-ffcf-b325-8bce01b460bc "Limit Theorems (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -65,7 +66,7 @@ Lecture
 {{< tdopen >}}
 
 
-[Intro to Statistics, Inferences for Normal Families (PDF)]({{< baseurl >}}/resources/mit14_381f18_lec3)
+{{% resource_link f1053e53-4604-1952-ef00-c3f55df03d43 "Intro to Statistics, Inferences for Normal Families (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -82,7 +83,7 @@ Lecture
 {{< tdopen >}}
 
 
-[Sufficient Statistics, Introduction to Estimation (PDF)]({{< baseurl >}}/resources/mit14_381f18_lec4)
+{{% resource_link 1c6d8a7f-e4fb-dd22-c659-af374a830e6a "Sufficient Statistics, Introduction to Estimation (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -99,7 +100,7 @@ Lecture
 {{< tdopen >}}
 
 
-[Point Estimators (PDF)]({{< baseurl >}}/resources/mit14_381f18_lec5)
+{{% resource_link 848f2edc-5d8b-c940-fcc9-88c955f02118 "Point Estimators (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -116,7 +117,7 @@ Lecture
 {{< tdopen >}}
 
 
-[Efficient Estimators, Rao-Cramer Bound (PDF)]({{< baseurl >}}/resources/mit14_381f18_lec6)
+{{% resource_link 15224973-dfc1-c2b4-2878-04c8712681f7 "Efficient Estimators, Rao-Cramer Bound (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -133,7 +134,7 @@ Lecture
 {{< tdopen >}}
 
 
-[Maximum Likelihood Estimation (PDF)]({{< baseurl >}}/resources/mit14_381f18_lec7)
+{{% resource_link 2eb7af31-864f-5f34-0b0b-62ec8d3368ab "Maximum Likelihood Estimation (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -150,7 +151,7 @@ Lecture
 {{< tdopen >}}
 
 
-[Testing Concepts (PDF)]({{< baseurl >}}/resources/mit14_381f18_lec8)
+{{% resource_link 8ccbbe06-92bb-1efd-27db-72862df43a2d "Testing Concepts (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -167,7 +168,7 @@ Lecture
 {{< tdopen >}}
 
 
-[Uniformly Most Powerful Tests (PDF)]({{< baseurl >}}/resources/mit14_381f18_lec9)
+{{% resource_link 0427ff2a-36e0-1927-fa4b-692a6d60a81a "Uniformly Most Powerful Tests (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -182,7 +183,7 @@ Lecture
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Large Sample Tests (PDF)]({{< baseurl >}}/resources/mit14_381f18_lec10)
+{{% resource_link 6e7aeb6d-d0a1-e8da-ffd5-60e9dabb8299 "Large Sample Tests (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -197,7 +198,7 @@ Lecture
 {{< tdopen >}}
 
 
-[Confidence Sets (PDF)]({{< baseurl >}}/resources/mit14_381f18_lec11)
+{{% resource_link 6a7fdee0-c759-b8ac-985b-f28a553acb24 "Confidence Sets (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -214,7 +215,7 @@ Lecture
 {{< tdopen >}}
 
 
-[Bayesian Inference (PDF)]({{< baseurl >}}/resources/mit14_381f18_lec12)
+{{% resource_link 33bf335e-ca97-c9d2-da23-5fe0343ae800 "Bayesian Inference (PDF)" %}}
 
 
 {{< tdclose >}}
