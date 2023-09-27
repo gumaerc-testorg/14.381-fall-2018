@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Syllabus for 14.381 Statistical Method in Economics including the course
+  description and grading scheme.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

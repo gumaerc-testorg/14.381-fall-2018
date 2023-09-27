@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Full problem set assignments for 14.381 Statistical Method in Economics.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -41,7 +42,7 @@ Introduction & Convergence
 {{< tdopen >}}
 
 
-[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit14_381f18_ps1)
+{{% resource_link 53b55110-a93f-8268-fa3b-445612651e2b "Problem Set 1 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -65,7 +66,7 @@ Estimation & Sufficient Statistics
 {{< tdopen >}}
 
 
-[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit14_381f18_ps2)
+{{% resource_link d3ffb333-1f85-e81e-2e45-3e6f88a966b0 "Problem Set 2 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -89,7 +90,7 @@ Information & Maximum Likelihood Estimation
 {{< tdopen >}}
 
 
-[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit14_381f18_ps3)
+{{% resource_link 3bf53900-c554-c727-e36e-116844c00d43 "Problem Set 3 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -113,7 +114,7 @@ Testing
 {{< tdopen >}}
 
 
-[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit14_381f18_ps4)
+{{% resource_link 2db23e9d-53b5-6fc0-62d9-d88e1d1d9409 "Problem Set 4 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -137,7 +138,7 @@ Testing & Confidence Sets
 {{< tdopen >}}
 
 
-[Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit14_381f18_ps5)
+{{% resource_link 15b44ab3-fe6c-a93c-4fe2-a25da55d222e "Problem Set 5 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -161,7 +162,7 @@ Bayesian
 {{< tdopen >}}
 
 
-[Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit14_381f18_ps6)
+{{% resource_link 0b6c13b5-fcee-3d6d-74ec-4c28b560da8a "Problem Set 6 (PDF)" %}}
 
 
 {{< tdclose >}}
